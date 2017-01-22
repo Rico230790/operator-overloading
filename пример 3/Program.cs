@@ -56,6 +56,7 @@ namespace пример_3
         }
         private static decimal GetExchangeRateRelativeToRUR(Currency type)
         {
+            //мфк
             switch (type)
             {
                 case Currency.RUR:
